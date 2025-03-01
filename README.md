@@ -1,1 +1,1 @@
-# my-linked-list
+# One of several data structures - linked list
